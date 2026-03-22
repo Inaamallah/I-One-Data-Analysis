@@ -4,7 +4,8 @@ A comprehensive Excel-based data visualization project designed to track, analyz
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](image_b230cf.png)
+<img width="1238" height="527" alt="image" src="https://github.com/user-attachments/assets/5f973d2c-629c-4447-be65-342fc3376e99" />
+
 
 ## 🎯 Project Overview
 This project transforms raw call logs into a visual narrative. By leveraging **Pivot Tables** and **Excel Formulas**, the dashboard allows managers to monitor high-level KPIs and drill down into specific representative performance using interactive slicers.
